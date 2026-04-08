@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rsp stat="ok">
     <list>
-        <widget id="SatStream">
+        <widget id="NetStream">
             <title>SatStream</title>
             <compression size="1234" type="zip"/>
             <description>App de Streaming</description>
-            <download>http://SEU_IP_DO_PC/Widget/SatStream.zip</download>
+            <download>https://raw.githack.com/Leasdo022/ip_develop_samsung/main/NetStream.zip</download>
         </widget>
     </list>
 </rsp>
