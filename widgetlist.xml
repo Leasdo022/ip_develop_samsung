@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok">
+    <list>
+        <widget id="SatStream">
+            <title>SatStream</title>
+            <compression size="1234" type="zip"/>
+            <description>App de Streaming</description>
+            <download>http://SEU_IP_DO_PC/Widget/SatStream.zip</download>
+        </widget>
+    </list>
+</rsp>
