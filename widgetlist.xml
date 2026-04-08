@@ -5,7 +5,7 @@
             <title>NetStream</title>
             <compression size="1234" type="zip"/>
             <description>App de Streaming</description>
-            <download>https://raw.githack.com/Leasdo022/ip_develop_samsung/main/NetStream.zip</download>
+            <download>https://github.com/Leasdo022/ip_develop_samsung/blob/main/NetStream.zip</download>
         </widget>
     </list>
 </rsp>
